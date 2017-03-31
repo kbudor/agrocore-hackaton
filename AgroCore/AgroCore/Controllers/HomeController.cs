@@ -15,7 +15,7 @@ namespace AgroCore.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "SVITA SCITA SVITA";
 
             return View();
         }
